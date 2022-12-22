@@ -16,13 +16,13 @@ The engineers have provided us with one dataset (`last_month_data.csv` in this r
 
 Using this data we propose you (as person in charge of the project) to provide a solution to the next tasks:
 
-## **Task 1** generate a classification model using logistic regression
+## **Task 1**: generate a classification model using logistic regression
 The first task is to use the data provided to generate a classification model using logistic regression.
 Provide most relevant information that in your opinion is needed to understand the performance of such model.
 
 The expectation in this task is to have a jupyter notebook as an outcome with the required steps explained. 
 
-## **Task 2** generate a classification model of your choice
+## **Task 2**: generate a classification model of your choice
 
 This second tasks tries to provide your own vision in terms of machine learning modelling. Independent of the previous task
 we want to present to the client an alternative to the previous logistic regression.
@@ -33,14 +33,14 @@ as the information needed to compare it with the previous model.
 
 The expectation in this task is to have a jupyter notebook as an outcome with the required steps explained. 
 
-## **Task 3** describe, compare and present the previous models
+## **Task 3**: describe, compare and present the previous models
 
 Provide a presentation with plots about:
 - the most relevant information about the data
 - the performance about the two previous models
 - which are the features that provide more information to the model for its performance for classification
 
-## **Task 4** generate a simple web app for predictions
+## **Task 4**: generate a simple web app for predictions
 
 Once the model is ready, the idea within the client is to have a service that could be consumed by other services to
 obtain whether a given policy would be at risk of generating a claim. For that reason you should provide a small dockerize
@@ -48,7 +48,7 @@ application that using one of the previous models can return the class (`normal`
 
 The expectation in this task is to have a dockerized application that can be consumed from a web browser. 
 
-## Task 5: future ideas
+## **Task 5**: future ideas
 
 Finally to show to the client that we have a plan for the project, we ask you to present your ideas about: 
 
