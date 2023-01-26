@@ -24,8 +24,8 @@ The expectation in this task is to have a jupyter notebook as an outcome with th
 
 ## **Task 2**: generate a classification model of your choice
 
-This second tasks tries to provide your own vision in terms of machine learning modelling. Independent of the previous task
-we want to present to the client an alternative to the previous logistic regression.
+In this task you can choose your own classification model. Independent of the previous task
+we want to present to the client an alternative to logistic regression.
 
 You will have to choose a different classification algorithm and generate a model that *could* perform better than the 
 previous logistic regression. Provide also the most relevant information to understand the performance of such model as well
