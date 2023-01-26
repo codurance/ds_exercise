@@ -55,7 +55,7 @@ Finally to show to the client that we have a plan for the project, we ask you to
 - Taking in account that in the next months more data will arrive, How would you evolve the model once in production? Do 
 you have any plan for versioning?
 
-- How will you protect the service/model against corrupted data? 
+- How could the service/model be made resilient to changes in the production environment, such as data format alterations? 
 
 - On which cloud provider will you leverage to serve the previous service/model and why.
 
