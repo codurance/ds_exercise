@@ -40,13 +40,13 @@ Provide a presentation with plots about:
 - the performance about the two previous models
 - which are the features that provide more information to the model for its performance for classification
 
-## **Task 4**: generate a simple web app for predictions
+## **Task 4**: generate a simple web service for predictions
 
 Once the model is ready, the idea within the client is to have a service that could be consumed by other services to
 obtain whether a given policy would be at risk of generating a claim. For that reason you should provide a small dockerize
 application that using one of the previous models can return the class (`normal` or `likely to be claimed`) of a given policy. The data provided to the application to generate a prediction should be the same columns that were provided in the csv.
 
-The expectation in this task is to have a dockerized application that can be consumed from a web browser. 
+The expectation in this task is to have a dockerized application that provides an API that can be consumed by a REST client.
 
 ## **Task 5**: future ideas
 
