@@ -10,9 +10,10 @@ There are two final goals:
 
 There are no data science team in the client but there are a couple of engineers from the client interested in the field. 
 They have suggested us to use logistic regression to classify the policies as: **normal** and **likely to be claimed**. 
-They do not have a clear idea on the way to do it so they need our support. 
+They do not have a clear idea on the way to do it, so they need our support. 
 
-The engineers have provided us with one dataset (`last_month_data.csv` in this repo) from last month where the policies with claims are labelled within column called `is_claim`. With 1 if they were claimed 0 if they were not claimed.
+The engineers have provided us with one dataset (`last_month_data.csv` in this repo), from last month, where the policies 
+with claims are labelled within column called `is_claim`. With 1 if they were claimed 0 if they were not claimed.
 
 Using this data we propose you (as person in charge of the project) to provide a solution to the next tasks:
 
@@ -50,7 +51,7 @@ The expectation in this task is to have a dockerized application that provides a
 
 ## **Task 5**: future ideas
 
-Finally to show to the client that we have a plan for the project, we ask you to present your ideas about: 
+Finally, to show to the client that we have a plan for the project, we ask you to present your ideas about: 
 
 - Taking in account that in the next months more data will arrive, How would you evolve the model once in production? Do 
 you have any plan for versioning?
@@ -63,7 +64,7 @@ you have any plan for versioning?
 ## Things we love
 
 - Your ideas and the way you express them (guide us through your thoughts)
-- Documentation
+- Documentation (explanations, plots, etc)
 - Well formatted code
 - Readability of the code
 - <ins>Testing!</ins>
